@@ -264,22 +264,19 @@ life_philosophy: "Great software should feel cinematic."
 
 # 🌐 Connect With Me
 
+
 <div align="center">
 
 <a href="https://www.instagram.com/bhavsar.meet31/">
   <img src="https://skillicons.dev/icons?i=instagram" height="52" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/meetbhavsar-31">
   <img src="https://skillicons.dev/icons?i=github" height="52" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="mailto:meeteditor31@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="52" />
+  <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" height="52" />
 </a>
 
 </div>
