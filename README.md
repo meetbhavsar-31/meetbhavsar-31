@@ -270,12 +270,16 @@ life_philosophy: "Great software should feel cinematic."
   <img src="https://skillicons.dev/icons?i=instagram" height="52" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/meetbhavsar-31">
   <img src="https://skillicons.dev/icons?i=github" height="52" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:meeteditor31@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="52" />
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="52" />
 </a>
 
 </div>
