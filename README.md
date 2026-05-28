@@ -266,8 +266,8 @@ life_philosophy: "Great software should feel cinematic."
 
 <div align="center">
 
-<a href="https://www.instagram.com/bhavsar.meet31">
-  <img src="https://skillicons.dev/icons?i=instagram"/>
+<a href="https://www.instagram.com/bhavsar.meet31/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://github.com/meetbhavsar-31">
